@@ -1,0 +1,11 @@
+**Database Name: busticketci**
+
+
+**Admin Login Details** 
+
+Username: owner
+Password: 
+
+Username: admin
+Password: 
+
